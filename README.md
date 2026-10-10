@@ -1,11 +1,12 @@
 # DiscoReaper
 
+## This repo is archived, Use the new fork - https://github.com/huntingfighter/disco-reaper
+
+>Join the [**Reaper Community**](https://fluxer.gg/9KxDP8WH) if you need help or have any questions.
+
+---
+
 **DiscoReaper** is a powerful tool designed to help you migrate your entire Discord server to Fluxer or Stoat. It clones channels, roles, emojis, permissions, and also your community's full message history.
-
-### Get it here: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/rambros3d/disco-reaper/releases/latest/download/disco-reaper-linux.zip)   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/rambros3d/disco-reaper/releases/latest/download/disco-reaper-windows.zip) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](https://github.com/rambros3d/disco-reaper/releases/latest/download/disco-reaper-macos.zip)
-
-
->Join our [**Reaper Community**](https://fluxer.gg/9KxDP8WH) if you need help or have any questions.
 
 ![Disco Reaper](images/fluxer-reaper.jpg)
 
